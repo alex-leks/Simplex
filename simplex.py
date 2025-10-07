@@ -13,3 +13,4 @@ variaveis_de_folga = True #vê se há necessidade de resolver o simplex com vari
 if variaveis_de_folga:
     A = resolver_problema_auxiliar()
 
+print("Hello World")
