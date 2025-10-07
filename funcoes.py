@@ -1,1 +1,2 @@
-def resolver_problema_auxiliar()
+def resolver_problema_auxiliar():
+    
